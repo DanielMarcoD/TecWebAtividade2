@@ -27,7 +27,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 .appbar{display: flex;
-  margin-top: 1.5px; 
   flex-direction: row;
   align-items: center;
   background-color:#f7d736 ;
